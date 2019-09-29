@@ -180,5 +180,26 @@ Daily bikeshare and taxis change
 seasonal bikeshare and texis change
 ![](data%20visualization/Picture2.png)
 
+# Conclusion & interesting findings
+1. Taxi Company should have potential growth by regaining the market in zipcode areas 20009 and 20003, whereas decrease the taxi distribution in downtown DC areas such as zipcode 20024 because it has a high density of bikeshares.
+
+2. There are only two bikeshare stations which bike riders did round trip.(start from one and end on the other and vice versa). As we open the google map and find out the neighborhood around these two bikeshare station, we find there are a shopping mall, recreation center and school around this area. 
+
+3. The daily bikeshare numbers start increases from 5:00 A.M. and reach the peak point near 8 A.M., then suddenly decrease, And start increase again from 3:00 P.M. and reach the peak point near 5:00 P.M., then drop again. It could be that there a lot of people take advantage of using bikeshare right before the rush hour starts to avoid the traffics. 
+
+4. The seasonal graph shows that during the winter, people like both bikeshare and taxi, it could be biking in winter is a good outdoor exercises for most of the people.
+
+## Future Imporvement
+- used multiple random subsets of data to do the distribution on the map to make comparison. It might save more time then plot the whole dataset all together in tableau.
+- Doulbe Check the data set, make sure there are no abnormal value apprears when ploting the grapg, some information like the duration within the same zipcode area could be too large to be trusted.
+- Consider more features, conduct a predictive model if necessary for future analysis.
+
+# Contribution
+- Assigned a new team and help team members understand the task and the work process from a high level.
+- Used big query to select data contained necessary informations.
+- used Tableau to visualze the bike and taxi spatial distributions on geographic map.
+- Used Python to explore and manipulate the data for team members to conduct daily and seasonal visualization
+- Lead the team to work on the presentation slides, voiceover and support team with any necessary documents. 
+
 
 
