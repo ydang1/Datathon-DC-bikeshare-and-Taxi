@@ -165,9 +165,20 @@ sample_DCTaxi:
 
 ![](data%20visualization/bike%20round%20trip%20stations%20neighborhood.png)
 
+taxi starts and ends station
 ![](data%20visualization/taxi%20station.png)
 
+DC bike Density
+![](data%20visualization/DC%20bike%20density.png)
 
+DC taxi density
+![](data%20visualization/DC%20taxi%20density.png)
+
+Daily bikeshare and taxis change
+![](data%20visualization/Picture1.png)
+
+seasonal bikeshare and texis change
+![](data%20visualization/Picture2.png)
 
 
 
